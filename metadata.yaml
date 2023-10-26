@@ -1,0 +1,30 @@
+_repo: A-memoir-of-Sir-John-Drummond-Hay-PC-KCB-GCMG-sometime-minister-at-the-court-of-Morrocco_71860
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brooks, Louisa Annette Edla (Drummond-Hay)
+    gutenberg_agent_id: '56429'
+    url: http://www.gutenberg.org/2009/agents/56429
+  - agent_name: Drummond-Hay, Alice Emily
+    gutenberg_agent_id: '56430'
+    url: http://www.gutenberg.org/2009/agents/56430
+description: ''
+gutenberg_issued: '2023-10-12'
+identifiers:
+  gutenberg: '71860'
+language: en
+pgterms:marc904: https://archive.org/details/memoirofsirjohnd00broorich
+pgterms:marc905: 20230927001209drummondha
+pgterms:marc906: '1896'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive and the HathiTrust Digital Library)
+publication_note: '  $aLondon :$bJohn Murray, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A memoir of Sir John Drummond Hay, P.C., K.C.B., G.C.M.G., sometime minister
+  at the court of Morrocco
+url: http://www.gutenberg.org/ebooks/71860
