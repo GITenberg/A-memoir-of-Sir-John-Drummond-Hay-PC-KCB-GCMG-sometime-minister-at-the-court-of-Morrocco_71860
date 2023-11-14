@@ -1,5 +1,8 @@
 _repo: A-memoir-of-Sir-John-Drummond-Hay-PC-KCB-GCMG-sometime-minister-at-the-court-of-Morrocco_71860
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71860-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Brooks, Louisa Annette Edla (Drummond-Hay)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56430'
     url: http://www.gutenberg.org/2009/agents/56430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71860#A-memoir-of-Sir-John-Drummond-Hay-PC-KCB-GCMG-sometime-minister-at-the-court-of-Morrocco
 gutenberg_issued: '2023-10-12'
 identifiers:
   gutenberg: '71860'
